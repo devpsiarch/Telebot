@@ -2,7 +2,7 @@ import requests
 import sys
 import json
 
-WEA_API = "1dd7aed643704c2cbd0153349242409"
+WEA_API = "api goes here"
 TYPE =  sys.argv[1]
 LOC = sys.argv[2] 
 
